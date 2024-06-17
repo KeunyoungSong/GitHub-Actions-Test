@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>FunctionNaming:MainActivity.kt$@Composable fun Greeting(name: String, modifier: Modifier = Modifier)</ID>
+    <ID>FunctionNaming:MainActivity.kt$@Preview(showBackground = true) @Composable fun GreetingPreview()</ID>
+    <ID>FunctionNaming:Theme.kt$@Composable fun JenkinsTestTheme( darkTheme: Boolean = isSystemInDarkTheme(), // Dynamic color is available on Android 12+ dynamicColor: Boolean = true, content: @Composable () -&gt; Unit )</ID>
+    <ID>MagicNumber:Color.kt$0xFF625b71</ID>
+    <ID>MagicNumber:Color.kt$0xFF6650a4</ID>
+    <ID>MagicNumber:Color.kt$0xFF7D5260</ID>
+    <ID>MagicNumber:Color.kt$0xFFCCC2DC</ID>
+    <ID>MagicNumber:Color.kt$0xFFD0BCFF</ID>
+    <ID>MagicNumber:Color.kt$0xFFEFB8C8</ID>
+    <ID>MagicNumber:Example.kt$Example$10</ID>
+    <ID>NewLineAtEndOfFile:Color.kt$com.keunyoung.jenkins_test.ui.theme.Color.kt</ID>
+    <ID>NewLineAtEndOfFile:Example.kt$com.keunyoung.jenkins_test.Example.kt</ID>
+    <ID>NewLineAtEndOfFile:ExampleUnitTest.kt$com.keunyoung.jenkins_test.ExampleUnitTest.kt</ID>
+    <ID>NewLineAtEndOfFile:MainActivity.kt$com.keunyoung.jenkins_test.MainActivity.kt</ID>
+    <ID>NewLineAtEndOfFile:Theme.kt$com.keunyoung.jenkins_test.ui.theme.Theme.kt</ID>
+    <ID>NewLineAtEndOfFile:Type.kt$com.keunyoung.jenkins_test.ui.theme.Type.kt</ID>
+    <ID>PackageNaming:Color.kt$package com.keunyoung.jenkins_test.ui.theme</ID>
+    <ID>PackageNaming:Example.kt$package com.keunyoung.jenkins_test</ID>
+    <ID>PackageNaming:ExampleUnitTest.kt$package com.keunyoung.jenkins_test</ID>
+    <ID>PackageNaming:MainActivity.kt$package com.keunyoung.jenkins_test</ID>
+    <ID>PackageNaming:Theme.kt$package com.keunyoung.jenkins_test.ui.theme</ID>
+    <ID>PackageNaming:Type.kt$package com.keunyoung.jenkins_test.ui.theme</ID>
+    <ID>UnusedPrivateProperty:Example.kt$Example$val a = 1 // Magic number</ID>
+    <ID>WildcardImport:ExampleUnitTest.kt$import org.junit.Assert.*</ID>
+  </CurrentIssues>
+</SmellBaseline>
